@@ -36,7 +36,7 @@
     "@ptc-org/nestjs-query-graphql": "patch:@ptc-org/nestjs-query-graphql@4.2.0#./patches/@ptc-org+nestjs-query-graphql+4.2.0.patch",
     "@revertdotdev/revert-react": "^0.0.21",
     "@sentry/nestjs": "^8.55.0",
-    "ai": "^4.3.16",
+    "ai": "^6.0.94",
     "cache-manager": "^5.4.0",
     "cache-manager-redis-yet": "^4.1.2",
     "class-validator": "patch:class-validator@0.14.0#./patches/class-validator+0.14.0.patch",
